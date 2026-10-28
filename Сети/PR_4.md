@@ -14,3 +14,6 @@ FDB
 
 dumps
 ![[Pasted image 20261028225557.png]]
+
+Отключение B
+![[Pasted image 20261028233547.png]]
