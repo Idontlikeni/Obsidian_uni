@@ -7,6 +7,7 @@
 Построение vxlan-туннеля
 ![[Pasted image 20261028200752.png]]
 
-
+Проверка связаности
+![[Pasted image 20261028223311.png]]
 FDB
 ![[Pasted image 20261028200944.png]]
