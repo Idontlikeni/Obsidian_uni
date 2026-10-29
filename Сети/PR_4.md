@@ -29,3 +29,4 @@ dumps
 ![[Pasted image 20261029100059.png]]
 
 Очистка ресурсов
+![[Pasted image 20261029100453.png]]
