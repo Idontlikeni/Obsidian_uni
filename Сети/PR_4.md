@@ -15,5 +15,10 @@ FDB
 dumps
 ![[Pasted image 20261028225557.png]]
 
+# доп. задание
+пинг проходит
+![[Pasted image 20261029093556.png]]
+
+
 Отключение B
 ![[Pasted image 20261028233547.png]]
