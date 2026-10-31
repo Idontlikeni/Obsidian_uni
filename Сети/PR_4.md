@@ -1,5 +1,5 @@
 Создание veth-пар и включение узлов в топологию
-![[Pasted image 20261028191034.png]]
+![[Pasted image 20261031222002.png]]
 
 Успешный пинг L3 на underlay
 ![[Pasted image 20261028195839.png]]
