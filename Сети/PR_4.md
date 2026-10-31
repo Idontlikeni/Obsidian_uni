@@ -16,18 +16,16 @@ ping overlay
 FDB
 ![[Pasted image 20261031224348.png]]
 
-dumps
-![[Pasted image 20261028225557.png]]
-
 # доп. задание
-Меняем порт на площадке A (ломаем)
-![[Pasted image 20261029095345.png]]
+Меняем порт на площадке B (ломаем)
 
-Потеря связяности
-![[Pasted image 20261029095444.png]]
+![[Pasted image 20261031224904.png]]
 
-пинг 9.1.1.1
-![[Pasted image 20261029100059.png]]
+Потеря связяности на overlay, underlay исправлен
+![[Pasted image 20261031225200.png]]
 
-Очистка ресурсов
-![[Pasted image 20261029100453.png]]
+Восстановление согласованного порта
+![[Pasted image 20261031225641.png]]
+
+Снова 0% pocket loss:
+![[Pasted image 20261031225723.png]]
