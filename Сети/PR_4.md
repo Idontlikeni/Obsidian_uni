@@ -12,9 +12,9 @@ ping overlay
 ![[Pasted image 20261029095018.png]]
 
 Проверка связаности
-![[Pasted image 20261028223311.png]]
+![[Pasted image 20261031224315.png]]
 FDB
-![[Pasted image 20261028200944.png]]
+![[Pasted image 20261031224348.png]]
 
 dumps
 ![[Pasted image 20261028225557.png]]
