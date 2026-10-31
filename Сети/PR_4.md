@@ -2,10 +2,11 @@
 ![[Pasted image 20261031222002.png]]
 
 Успешный пинг L3 на underlay
-![[Pasted image 20261028195839.png]]
+![[Pasted image 20261031223728.png]]
 
 Построение vxlan-туннеля
-![[Pasted image 20261028200752.png]]
+![[Pasted image 20261031223759.png]]
+
 
 ping overlay
 ![[Pasted image 20261029095018.png]]
