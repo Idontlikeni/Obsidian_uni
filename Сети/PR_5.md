@@ -8,4 +8,5 @@
 7) Запуск контейнера![[Pasted image 20261101191731.png]]
 8) Проверка ICMP-зондирования![[Pasted image 20261101194428.png]]
 9) (Задание prometheus) оба в upd![[Pasted image 20261101205548.png]]
-10) 
+10) Запуск grafana![[Pasted image 20261101221646.png]]
+11) 
