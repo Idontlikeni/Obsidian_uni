@@ -7,4 +7,4 @@
    ![[Pasted image 20261101190023.png]]
 7) Запуск контейнера![[Pasted image 20261101191731.png]]
 8) Проверка ICMP-зондирования![[Pasted image 20261101194428.png]]
-9) 
+9) (Задание prometheus)
