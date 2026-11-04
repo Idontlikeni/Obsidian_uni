@@ -9,4 +9,6 @@
 8) Проверка ICMP-зондирования![[Pasted image 20261101194428.png]]
 9) (Задание prometheus) оба в upd![[Pasted image 20261105003048.png]]
 10) Запуск grafana![[Pasted image 20261101221646.png]]
-11) 
+11) dashboard grafana![[Pasted image 20261105020653.png]]
+12) dashboard grafana после нагрузки![[Pasted image 20261105020933.png]]
+13) 
