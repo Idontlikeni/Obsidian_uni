@@ -11,4 +11,4 @@
 10) Запуск grafana![[Pasted image 20261101221646.png]]
 11) dashboard grafana![[Pasted image 20261105020653.png]]
 12) dashboard grafana после нагрузки![[Pasted image 20261105020933.png]]
-13) 
+13) доп.задание![[Pasted image 20261105021738.png]]
