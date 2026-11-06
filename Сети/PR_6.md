@@ -4,4 +4,6 @@
 4) <скрипт агрегации>
 5) curl metrics![[Pasted image 20261106212731.png]]
 6) prometheus![[Pasted image 20261106213110.png]]
-7) 
+7) панель top talkers![[Pasted image 20261106214116.png]]
+8) Unique destinations![[Pasted image 20261106214341.png]]
+9) 
