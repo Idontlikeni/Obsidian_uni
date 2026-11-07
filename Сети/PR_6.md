@@ -6,4 +6,6 @@
 6) prometheus![[Pasted image 20261106213110.png]]
 7) панель top talkers![[Pasted image 20261106214116.png]]
 8) Unique destinations![[Pasted image 20261106214341.png]]
-9) 
+9) Стырить скрины
+10) ![[Pasted image 20261107174053.png]]
+11) 
