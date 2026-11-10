@@ -7,7 +7,9 @@
 6) prometheus alerts![[Pasted image 20261110222402.png]]
 7) alert manager![[Pasted image 20261110212259.png]]
 8) alert ![[Pasted image 20261110224657.png]]
-9) 
+9) Silencer![[Pasted image 20261111000556.png]]
+10) Логи![[Pasted image 20261111000703.png]]
+11) 
 blackbox.yml:
 ```
 modules:
