@@ -4,7 +4,7 @@
    ![[Pasted image 20261110191006.png]]
 4) проверка работы![[Pasted image 20261110202116.png]]
 5) новые rules.yml prometheus.yml
-6) prometheus alerts![[Pasted image 20261110212227.png]]
+6) prometheus alerts![[Pasted image 20261110222402.png]]
 7) alert manager![[Pasted image 20261110212259.png]]
 8) 
 
