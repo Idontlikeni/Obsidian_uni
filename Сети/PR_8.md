@@ -6,8 +6,8 @@
 5) новые rules.yml prometheus.yml
 6) prometheus alerts![[Pasted image 20261110222402.png]]
 7) alert manager![[Pasted image 20261110212259.png]]
-8) 
-
+8) alert ![[Pasted image 20261110224657.png]]
+9) 
 blackbox.yml:
 ```
 modules:
