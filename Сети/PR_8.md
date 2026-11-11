@@ -9,7 +9,7 @@
 8) alert ![[Pasted image 20261110224657.png]]
 9) Silencer![[Pasted image 20261111000556.png]]
 10) Логи![[Pasted image 20261111000703.png]]
-11) 
+11) [[instruction_PR8|инструкция]]
 blackbox.yml:
 ```
 modules:
