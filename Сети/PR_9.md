@@ -10,7 +10,9 @@
 10) docker-compose-plugin
 11) backup_configs.sh
 12) запуск резервного копирования![[Pasted image 20261111124417.png]]
-13) 
+13) симуляция инцидента![[Pasted image 20261111125313.png]]![[Pasted image 20261111125332.png]]
+14) восстановление![[Pasted image 20261111125608.png]]
+15) 
 
 docker-compose.yml:
 ```yml
