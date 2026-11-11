@@ -8,6 +8,8 @@
 8) napalm_verify.py
 9) верификация состояния![[Pasted image 20261111112525.png]]
 10) docker-compose-plugin
+11) backup_configs.sh
+12) 
 
 docker-compose.yml:
 ```yml
@@ -131,3 +133,13 @@ if __name__ == "__main__":
     print(json.dumps(get_facts(), indent=4, ensure_ascii=False))
 ```
 
+```sh
+#!/bin/bash
+BACKUP_DIR=~/netmon/frr_lab/backups
+mkdir -p "$BACKUP_DIR"
+TS=$(date +%Y%m%d_%H%M%S)
+for r in r1 r2 r3; do
+  sudo docker exec frr-$r cat /etc/frr/frr.conf > "$BACKUP_DIR/${r}_${TS}.conf"
+done
+echo "[$(date +%T)] Резервная копия создана: $TS"
+```
