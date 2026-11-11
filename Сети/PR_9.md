@@ -9,7 +9,8 @@
 9) верификация состояния![[Pasted image 20261111112525.png]]
 10) docker-compose-plugin
 11) backup_configs.sh
-12) 
+12) запуск резервного копирования![[Pasted image 20261111124417.png]]
+13) 
 
 docker-compose.yml:
 ```yml
